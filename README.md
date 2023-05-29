@@ -101,7 +101,9 @@ Data preprocessing
 
 ![image](https://github.com/swathidd/Ex-08-Data-Visualization_1/assets/121300272/7391e6f9-1cab-4842-b22c-eba5deffca4f)
 
+
 ![image](https://github.com/swathidd/Ex-08-Data-Visualization_1/assets/121300272/16fae79e-2bd6-4a85-9563-a185d9890b7a)
+
 
 Handling outliers
 
